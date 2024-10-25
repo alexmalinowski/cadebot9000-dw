@@ -16279,6 +16279,7 @@ Armor: 1
 Hit Points: 18
 Stats: STR 15 DEX 8 CON 12 INT 9 WIS 16 CHA 13
 Race: Human
+Sex: Male
 Born of the Soil land: The Whispering Plains
 Shapeshifting Forms: Therapsid (Pack Hunter)
 Inventory: Native Copper Disc, carved with the seal of Iskal's family. Hide armor, Staff, Poultices and Herbs
@@ -16300,6 +16301,14 @@ Iskal's bonds with the characters:
 Vashni-Ra smells more like prey than a hunter.
 THe spirits spoke to me of a great danger that follows Kal-Ranin.
 I have showed Arashu-Dul a secret rite of the land.
+
+NPC Appearances:
+
+Arashu-Dul: She has silver-threaded hair that falls in braids around her shoulders, her weathered face etched with the wisdom of many seasons. Her eyes are a deep, knowing green, and she wears robes of layered grasses and woven herbs, smelling faintly of sage.
+
+Kal-Ranin: Kal is tall and lean, his skin weathered by the plains’ harsh winds. He wears simple leathers, and his sharp, watchful eyes scan constantly. His hair is cropped short, with a single feather tied near his temple.
+
+Vashni-Rah: Fierce and wiry, Vashni’s hair flows wild and untamed. She wears light furs over agile, fitted clothes, with a blade always within reach. Her gaze is intense, and her stance ready, as if always poised to strike.
 
 ChatGPT will run these characters as if they were player characters and members of Iskal-Nasir's adventuring party that take their own actions in all scenarios.
 
