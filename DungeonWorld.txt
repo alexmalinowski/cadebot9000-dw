@@ -16264,12 +16264,26 @@ steading.
 • Two-handed (equipment): It takes two hands to use it.
 • Watch (steading defenses): A few people dedicated to being on 
 the lookout for trouble.
-• Wealthy (steading prosperity): Just about any muindane item 
+• Wealthy (steading prosperity): Just about any mundane item 
 available.
 • n Weight (equipment): The item counts against your load. You 
 can only carry total weight equal to your load without penalty.
 • Worn (equipment): It’s only useful if you wear it like clothes.
 • n Uses (equipment): It can be used n times.
+
+Here are the details of my character for ChatGPT to use.
+Name: Iskal-Nasir
+Level: 1
+XP: 0
+Armor: 1
+Hit Points: 18
+Stats: STR 15 DEX 8 CON 12 INT 9 WIS 16 CHA 13
+Race: Human
+Born of the Soil land: The Whispering Plains
+Shapeshifting Forms: Therapsid (Pack Hunter)
+Inventory: Native Copper Disc, carved with the seal of Iskal's family. Hide armor, Staff, Poultices and Herbs
+
+Character apperance: Iskal-Nasir is a lean, muscular early-20s man with a shaved head and black eyebrows. His skin is of olive tone, and he's typically adorned in practical leathers crafted from the skins of creatures that roam the plains. He wears sandals and a flowing hide skirt, while carrying a twisted staff crafted from a branch as a rite of passage. After his druidic powers began to manifest, his eyes changed from a dark brown to resemble that of a sunset. His pupils turned white like the sun, and his iris mimicked the sun's rays. His sclera periodically shifts to match the color of the sky, depending on the time of day. His skin carries swirling inky tattoos, a symbol of his family's story.
 
 
 
