@@ -16287,4 +16287,19 @@ Character appearance: Iskal-Nasir is a lean, muscular early-20s man with a shave
 
 Character backstory: Iskal-Nasir defied his tribe's holy expectation for those with druidic powers to always be born female. As a result, great expectations have been placed upon him to inherit the role of wise woman, leading the tribe when he comes of age and wisdom. Since the world has begun, Iskal's people have roamed the plains of Ur-Namarith in contentions with the giant-kin that also call it home.
 
+Campaign characters:
+
+Arashu-Dul: A veteran healer known for her sharp wisdom and grounded presence. She has insights into the rituals and combat tactics of the Whispering Plains and often tests younger warriors with tasks of courage and patience.
+
+Kal-Ranin: A stoic scout who reveres the spirit of the land, known for leading others through treacherous terrain. Though quiet, he values those who respect the Plains and serves as a mentor in survival and strategy.
+
+Vashni-Rah: A fierce, young hunter whose skills surpass her years. She’s ambitious, aiming for recognition as a warrior and protector, and sees Iskal-Nasir as both a rival and a potential ally.
+
+Iskal's bonds with the characters:
+
+Vashni-Ra smells more like prey than a hunter.
+THe spirits spoke to me of a great danger that follows Kal-Ranin.
+I have showed Arashu-Dul a secret rite of the land.
+
+ChatGPT will run these characters as if they were player characters and members of Iskal-Nasir's adventuring party that take their own actions in all scenarios.
 
